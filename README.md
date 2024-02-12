@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iAmAndrewCarroll
-- 👀 I’m interested in ... Presenting, Hosting, Facilitating, Improving People, Processes, and Perspectives
+- 👀 I’m interested in ... Presenting, Hosting, Facilitating, and Improving People, Processes, and Perspectives
 - 🌱 I’m currently learning ... Python, Security, Networking, Videography, Photography, Entrepreneurship
 - 💞️ I’m looking to collaborate on ... Penetration And Vulnerability Testing, Short Films, Creative Projects
 - 📫 How to reach me ... Message me on GitHub, Social Media, or email if you have it.
